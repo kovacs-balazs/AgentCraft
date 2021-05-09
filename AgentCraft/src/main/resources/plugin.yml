@@ -1,0 +1,8 @@
+name: AgentCraft
+version: ${project.version}
+main: me.koba1.agentcraft.Agentcraft
+api-version: 1.16
+authors: [ koba1 ]
+description: AgentCraft pluginja
+
+commands:
